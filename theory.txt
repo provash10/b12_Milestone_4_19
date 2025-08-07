@@ -1,0 +1,22 @@
+
+Milestone 4 19
+========================
+19-1 What are function and function syntax
+
+// function structure
+// function name(){
+
+// }
+
+const number = 45;
+
+// function declare
+function fanOff(){
+    console.log('Stand Up');
+    console.log('Walk  forward');
+    console.log('Click The Switch');
+}
+
+// call the function
+fanOff();
+======================================
