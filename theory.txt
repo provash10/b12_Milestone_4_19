@@ -44,4 +44,6 @@ return result;
 2. function declare with parameter by variable
 3. Function return
 
+====================================
+19-7 Different types of parameters for a function
 
