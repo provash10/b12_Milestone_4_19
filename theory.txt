@@ -34,3 +34,7 @@ fanOff();
 
 
 ============================================
+19-5 Function return and set return value to a variable
+
+return result;
+=====================================
