@@ -25,3 +25,12 @@ fanOff();
 *****Function Datails
 ==================================
 19-3 Function parameter, handle multiple parameters
+
+
+
+=========================================
+19-4 How Function works and argument vs parameters
+
+
+
+============================================
