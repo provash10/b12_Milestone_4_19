@@ -38,3 +38,10 @@ fanOff();
 
 return result;
 =====================================
+19-6 Recap and conditional return of odd and even
+
+1. function declare
+2. function declare with parameter by variable
+3. Function return
+
+
