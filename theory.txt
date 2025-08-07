@@ -20,3 +20,8 @@ function fanOff(){
 // call the function
 fanOff();
 ======================================
+19-2 Understand the concept of function with visual effects
+
+*****Function Datails
+==================================
+19-3 Function parameter, handle multiple parameters
