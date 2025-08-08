@@ -51,3 +51,6 @@ return result;
 ==============================================
 19-8 Sum of all numbers in an array using function
 
+===========================================
+19-9 Return all the even numbers of an array
+
