@@ -54,3 +54,12 @@ return result;
 ===========================================
 19-9 Return all the even numbers of an array
 
+
+===================================================
+19-10 Function Summary and Practice Tasks
+
+1. function declare
+2. parameter (argument)
+3. return 
+
+Homework >>> function tasks >>> js-function-practice-tasks
