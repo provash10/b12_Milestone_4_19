@@ -47,3 +47,7 @@ return result;
 ====================================
 19-7 Different types of parameters for a function
 
+
+==============================================
+19-8 Sum of all numbers in an array using function
+
